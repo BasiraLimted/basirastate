@@ -1,15 +1,18 @@
 owner: BasiraLimted # Our GitHub organization where this repository lives
 repo: basirastate # The name of this repository
 
+assignees: # Users to assign downtime issues (optional)
+  - rufilboy
+
 sites:
   - name: Basira App
     url: https://www.basira.app
+  - name: Basira Stage App
+    url: https://stage.market.basira.app
   - name: Market Basira
     url: https://market.basira.app
   - name: Live API
     url: https://api.basira.app
-  - name: Basira Stage App
-    url: https://stage.market.basira.app
   - name: Stage API
     url: https://stage.api.basira.app
 
