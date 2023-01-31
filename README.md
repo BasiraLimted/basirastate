@@ -24,4 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-**Visit our status website →** [**Basira App**](https://BasiraLimted.github.io/basirastate)
+[**Visit our status website →**](https://BasiraLimted.github.io/basirastate)
+
+
+Powered by: [Upptime](https://github.com/upptime/upptime)
