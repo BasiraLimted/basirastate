@@ -22,17 +22,17 @@
     "url": "https://stage.market.basira.app",
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
-    "status": "down",
-    "uptime": "77.88%",
+    "status": "up",
+    "uptime": "80.33%",
     "uptimeDay": "48.87%",
-    "uptimeWeek": "77.88%",
-    "uptimeMonth": "77.88%",
-    "uptimeYear": "77.88%",
-    "time": 251,
-    "timeDay": 131,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "uptimeWeek": "80.33%",
+    "uptimeMonth": "80.33%",
+    "uptimeYear": "80.33%",
+    "time": 275,
+    "timeDay": 263,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2023-02-02": 736
     }
@@ -72,7 +72,7 @@
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2023-02-03": 29,
+      "2023-02-03": 443,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 419
@@ -95,7 +95,7 @@
     "timeMonth": 545,
     "timeYear": 545,
     "dailyMinutesDown": {
-      "2023-02-03": 29,
+      "2023-02-03": 443,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
       "2023-01-31": 419
