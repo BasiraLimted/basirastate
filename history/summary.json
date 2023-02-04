@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
     "status": "up",
-    "uptime": "84.55%",
+    "uptime": "84.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "84.55%",
-    "uptimeMonth": "84.55%",
-    "uptimeYear": "84.55%",
+    "uptimeWeek": "84.59%",
+    "uptimeMonth": "84.59%",
+    "uptimeYear": "84.59%",
     "time": 271,
     "timeDay": 322,
     "timeWeek": 271,
@@ -42,9 +42,9 @@
     "url": "https://market.basira.app",
     "icon": "https://icons.duckduckgo.com/ip3/market.basira.app.ico",
     "slug": "market-basira",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 354,
     "timeMonth": 354,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-04": 0
+    }
   },
   {
     "name": "Live API",
@@ -72,7 +74,7 @@
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-02-04": 26,
+      "2023-02-04": 40,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
@@ -96,7 +98,7 @@
     "timeMonth": 535,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2023-02-04": 26,
+      "2023-02-04": 40,
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
