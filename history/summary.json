@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
     "status": "down",
-    "uptime": "11.04%",
+    "uptime": "11.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "6.36%",
+    "uptimeYear": "6.23%",
     "time": 420,
     "timeDay": 0,
-    "timeWeek": 654,
+    "timeWeek": 0,
     "timeMonth": 654,
-    "timeYear": 455,
+    "timeYear": 452,
     "dailyMinutesDown": {
-      "2024-03-25": 27,
+      "2024-03-26": 25,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -357,8 +358,7 @@
       "2023-04-22": 814,
       "2023-04-15": 803,
       "2023-04-14": 814,
-      "2023-03-28": 818,
-      "2023-03-27": 1440
+      "2023-03-28": 818
     }
   },
   {
@@ -367,18 +367,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
     "status": "down",
-    "uptime": "11.93%",
+    "uptime": "11.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "7.51%",
+    "uptimeYear": "7.24%",
     "time": 244,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 218,
+    "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-03-25": 27,
+      "2024-03-26": 25,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -725,18 +726,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/market.basira.app.ico",
     "slug": "market-basira",
     "status": "down",
-    "uptime": "11.99%",
+    "uptime": "11.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "7.51%",
+    "uptimeYear": "7.24%",
     "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 254,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-03-25": 27,
+      "2024-03-26": 25,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1094,7 +1096,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-25": 27,
+      "2024-03-26": 25,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1457,8 +1460,7 @@
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440
+      "2023-03-28": 1440
     }
   },
   {
@@ -1478,7 +1480,8 @@
     "timeMonth": 0,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2024-03-25": 27,
+      "2024-03-26": 25,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -1841,8 +1844,7 @@
       "2023-03-31": 1440,
       "2023-03-30": 1440,
       "2023-03-29": 1440,
-      "2023-03-28": 1440,
-      "2023-03-27": 1440
+      "2023-03-28": 1440
     }
   }
 ]
