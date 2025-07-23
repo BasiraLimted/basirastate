@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
     "status": "up",
-    "uptime": "5.25%",
+    "uptime": "5.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "5.24%",
-    "uptimeYear": "0.32%",
-    "time": 319,
-    "timeDay": 147,
-    "timeWeek": 156,
-    "timeMonth": 156,
+    "uptimeWeek": "31.04%",
+    "uptimeMonth": "8.52%",
+    "uptimeYear": "0.60%",
+    "time": 310,
+    "timeDay": 256,
+    "timeWeek": 181,
+    "timeMonth": 181,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
@@ -377,8 +377,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -387,16 +386,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
     "status": "up",
-    "uptime": "5.66%",
+    "uptime": "5.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "5.24%",
-    "uptimeYear": "0.32%",
-    "time": 122,
-    "timeDay": 124,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "uptimeWeek": "31.04%",
+    "uptimeMonth": "8.52%",
+    "uptimeYear": "0.60%",
+    "time": 136,
+    "timeDay": 177,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -759,8 +758,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -769,16 +767,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/market.basira.app.ico",
     "slug": "market-basira",
     "status": "up",
-    "uptime": "5.69%",
+    "uptime": "5.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "5.24%",
-    "uptimeYear": "0.32%",
-    "time": 81,
-    "timeDay": 81,
-    "timeWeek": 81,
-    "timeMonth": 81,
-    "timeYear": 81,
+    "uptimeWeek": "31.04%",
+    "uptimeMonth": "8.52%",
+    "uptimeYear": "0.60%",
+    "time": 114,
+    "timeDay": 215,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -1141,8 +1139,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   },
   {
@@ -1151,16 +1148,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.basira.app.ico",
     "slug": "live-api",
     "status": "up",
-    "uptime": "10.91%",
+    "uptime": "11.01%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "15.96%",
-    "uptimeMonth": "5.05%",
-    "uptimeYear": "26.98%",
-    "time": 878,
-    "timeDay": 253,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 878,
+    "uptimeWeek": "30.25%",
+    "uptimeMonth": "8.34%",
+    "uptimeYear": "27.26%",
+    "time": 871,
+    "timeDay": 177,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2025-07-20": 1316,
       "2025-07-19": 1440,
@@ -1428,8 +1425,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 333,
-      "2024-07-24": 75,
-      "2024-07-23": 1370
+      "2024-07-24": 75
     }
   },
   {
@@ -1438,16 +1434,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.basira.app.ico",
     "slug": "stage-api",
     "status": "up",
-    "uptime": "0.13%",
+    "uptime": "0.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.75%",
-    "uptimeMonth": "5.24%",
-    "uptimeYear": "0.32%",
-    "time": 127,
-    "timeDay": 156,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "uptimeWeek": "31.04%",
+    "uptimeMonth": "8.52%",
+    "uptimeYear": "0.60%",
+    "time": 147,
+    "timeDay": 208,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -1810,8 +1806,7 @@
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
-      "2024-07-24": 1440,
-      "2024-07-23": 1440
+      "2024-07-24": 1440
     }
   }
 ]
