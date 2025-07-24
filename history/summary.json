@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
     "status": "up",
-    "uptime": "5.35%",
+    "uptime": "5.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.04%",
-    "uptimeMonth": "8.52%",
-    "uptimeYear": "0.60%",
-    "time": 310,
-    "timeDay": 256,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 258,
+    "uptimeWeek": "45.32%",
+    "uptimeMonth": "11.81%",
+    "uptimeYear": "0.87%",
+    "time": 290,
+    "timeDay": 149,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -376,8 +376,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -386,16 +385,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
     "status": "up",
-    "uptime": "5.76%",
+    "uptime": "5.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.04%",
-    "uptimeMonth": "8.52%",
-    "uptimeYear": "0.60%",
-    "time": 136,
-    "timeDay": 177,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptimeWeek": "45.32%",
+    "uptimeMonth": "11.81%",
+    "uptimeYear": "0.87%",
+    "time": 123,
+    "timeDay": 69,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -757,8 +756,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -767,16 +765,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/market.basira.app.ico",
     "slug": "market-basira",
     "status": "up",
-    "uptime": "5.79%",
+    "uptime": "5.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.04%",
-    "uptimeMonth": "8.52%",
-    "uptimeYear": "0.60%",
-    "time": 114,
-    "timeDay": 215,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "uptimeWeek": "45.32%",
+    "uptimeMonth": "11.81%",
+    "uptimeYear": "0.87%",
+    "time": 115,
+    "timeDay": 116,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -1138,8 +1136,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   },
   {
@@ -1148,16 +1145,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.basira.app.ico",
     "slug": "live-api",
     "status": "up",
-    "uptime": "11.01%",
+    "uptime": "11.11%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "30.25%",
-    "uptimeMonth": "8.34%",
-    "uptimeYear": "27.26%",
-    "time": 871,
-    "timeDay": 177,
-    "timeWeek": 169,
-    "timeMonth": 169,
-    "timeYear": 871,
+    "uptimeWeek": "44.53%",
+    "uptimeMonth": "11.63%",
+    "uptimeYear": "27.52%",
+    "time": 864,
+    "timeDay": 160,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-07-20": 1316,
       "2025-07-19": 1440,
@@ -1424,8 +1421,7 @@
       "2024-10-26": 1078,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 333,
-      "2024-07-24": 75
+      "2024-10-23": 333
     }
   },
   {
@@ -1434,16 +1430,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.basira.app.ico",
     "slug": "stage-api",
     "status": "up",
-    "uptime": "0.24%",
+    "uptime": "0.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.04%",
-    "uptimeMonth": "8.52%",
-    "uptimeYear": "0.60%",
-    "time": 147,
-    "timeDay": 208,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "uptimeWeek": "45.32%",
+    "uptimeMonth": "11.81%",
+    "uptimeYear": "0.87%",
+    "time": 146,
+    "timeDay": 141,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -1805,8 +1801,7 @@
       "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
-      "2024-07-25": 1440,
-      "2024-07-24": 1440
+      "2024-07-25": 1440
     }
   }
 ]
