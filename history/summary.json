@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
     "status": "up",
-    "uptime": "6.39%",
+    "uptime": "6.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.11%",
-    "uptimeYear": "3.33%",
-    "time": 206,
-    "timeDay": 325,
-    "timeWeek": 201,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "3.61%",
+    "time": 205,
+    "timeDay": 187,
+    "timeWeek": 177,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -366,8 +366,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   },
   {
@@ -376,16 +375,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.market.basira.app.ico",
     "slug": "basira-stage-app",
     "status": "up",
-    "uptime": "6.79%",
+    "uptime": "6.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.11%",
-    "uptimeYear": "3.33%",
-    "time": 173,
-    "timeDay": 406,
-    "timeWeek": 209,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "3.61%",
+    "time": 177,
+    "timeDay": 232,
+    "timeWeek": 212,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -737,8 +736,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   },
   {
@@ -747,16 +745,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/market.basira.app.ico",
     "slug": "market-basira",
     "status": "up",
-    "uptime": "6.83%",
+    "uptime": "6.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.11%",
-    "uptimeYear": "3.33%",
-    "time": 152,
-    "timeDay": 355,
-    "timeWeek": 176,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "3.61%",
+    "time": 153,
+    "timeDay": 166,
+    "timeWeek": 189,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2025-07-20": 1236,
       "2025-07-19": 1440,
@@ -1108,8 +1106,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   },
   {
@@ -1118,16 +1115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.basira.app.ico",
     "slug": "live-api",
     "status": "up",
-    "uptime": "11.99%",
+    "uptime": "12.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "37.92%",
+    "uptimeMonth": "41.23%",
     "uptimeYear": "27.52%",
-    "time": 811,
-    "timeDay": 482,
-    "timeWeek": 190,
-    "timeMonth": 179,
-    "timeYear": 799,
+    "time": 804,
+    "timeDay": 60,
+    "timeWeek": 182,
+    "timeMonth": 171,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2025-07-20": 1316,
       "2025-07-19": 1440,
@@ -1403,14 +1400,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.basira.app.ico",
     "slug": "stage-api",
     "status": "up",
-    "uptime": "1.33%",
+    "uptime": "1.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "38.11%",
-    "uptimeYear": "3.33%",
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "3.61%",
     "time": 158,
-    "timeDay": 418,
-    "timeWeek": 173,
+    "timeDay": 166,
+    "timeWeek": 174,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {
@@ -1764,8 +1761,7 @@
       "2024-08-07": 1440,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
-      "2024-08-04": 1440,
-      "2024-08-03": 1440
+      "2024-08-04": 1440
     }
   }
 ]
