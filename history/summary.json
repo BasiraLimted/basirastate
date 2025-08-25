@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
     "status": "up",
-    "uptime": "8.64%",
+    "uptime": "8.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.79%",
-    "uptimeYear": "9.52%",
+    "uptimeYear": "9.54%",
     "time": 215,
     "timeDay": 168,
     "timeWeek": 199,
@@ -347,8 +347,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
@@ -361,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "9.55%",
+    "uptimeYear": "9.56%",
     "time": 213,
     "timeDay": 241,
     "timeWeek": 211,
@@ -698,8 +697,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
@@ -712,7 +710,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "9.55%",
+    "uptimeYear": "9.56%",
     "time": 203,
     "timeDay": 206,
     "timeWeek": 240,
@@ -1049,8 +1047,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   },
   {
@@ -1059,10 +1056,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.basira.app.ico",
     "slug": "live-api",
     "status": "up",
-    "uptime": "14.11%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.03%",
+    "uptime": "14.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "27.44%",
     "time": 698,
     "timeDay": 159,
@@ -1070,7 +1067,6 @@
     "timeMonth": 199,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-08-24": 8,
       "2025-08-08": 123,
       "2025-08-07": 294,
       "2025-07-20": 1316,
@@ -1347,11 +1343,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/stage.api.basira.app.ico",
     "slug": "stage-api",
     "status": "up",
-    "uptime": "3.72%",
+    "uptime": "3.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.05%",
-    "uptimeYear": "9.55%",
+    "uptimeYear": "9.56%",
     "time": 194,
     "timeDay": 151,
     "timeWeek": 160,
@@ -1688,8 +1684,7 @@
       "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
-      "2024-08-26": 1440,
-      "2024-08-25": 1440
+      "2024-08-26": 1440
     }
   }
 ]
