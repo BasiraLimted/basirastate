@@ -4,9 +4,9 @@
     "url": "https://www.basira.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.basira.app.ico",
     "slug": "basira-app",
-    "status": "up",
+    "status": "down",
     "uptime": "15.08%",
-    "uptimeDay": "96.70%",
+    "uptimeDay": "96.69%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "31.35%",
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-12-31": 563,
+      "2025-12-31": 584,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -635,7 +635,7 @@
     "timeMonth": 0,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2025-12-31": 563,
+      "2025-12-31": 584,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -980,7 +980,7 @@
     "timeMonth": 0,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-12-31": 563,
+      "2025-12-31": 584,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
@@ -1325,7 +1325,7 @@
     "timeMonth": 0,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2025-12-31": 563,
+      "2025-12-31": 584,
       "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
